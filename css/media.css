@@ -1,0 +1,250 @@
+@media screen and (max-width: 1200px) {
+	.wrapper_menu_item{
+		padding: 0 0 0 50px;
+	}
+	.phone_icon_footer{
+		left: 10px;
+	}
+}
+@media screen and (max-width: 992px) {
+	.wrapper_menu_item{
+		max-width: 400px;
+		padding: 0 0 0 20px;
+	}
+	.contacts{
+		min-width: 	230px;
+	}
+.footer_logo{
+	margin-top: 5px;
+	display: inline-block;
+}
+.header_text .header__text_van, .header__text_two{
+	font-size: 4.266666666666667rem;
+	letter-spacing: 15px;
+}
+.header_text .header__text_two{
+	font-size: 2.933333333333333rem;
+}
+.angle{
+		margin: 180px 50% 100px;
+}
+.advantages_block_inline{
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	width: 100%;
+	
+}
+
+.advantages_block_center{
+	width: 100%;
+	display: block;
+}
+
+.advantages__header{
+	margin: 30px 0 30px 0;
+}
+
+.advantages_block_van{
+	width: 100%;
+} 
+
+.moving{
+	background: #2b4458;	
+}
+
+.rights{
+	padding: 23px 0px 5px 0;
+	float: none;
+}
+.elips_img{
+	margin: 0 0 0 0;
+	bottom: -30px;
+	position: absolute;
+	left: 48%;
+	z-index: 3;
+	}
+.property__header {
+	padding-bottom: 50px;
+}
+.advantages_block_van img {
+    padding: 30px 0 0 0;
+}
+.advantages_block_van_text {
+    padding: 20px 10px 20px;
+}
+.phone_icon_footer{
+	left: 0;
+}
+.footer_phone{
+	width: 100%;
+}
+.phone_icon_footer{
+		margin-left: 30%;
+}
+.footer_phone{
+	text-align: center;
+} 
+}
+
+@media screen and (max-width: 578px) {
+.menu-btn {
+  margin-right: -95px;
+}
+}
+
+@media screen and (max-width: 480px) {
+.header_text .header__text_van, .header__text_two{
+	font-size: 3.2rem;
+	letter-spacing: 15px;
+}
+.header_text .header__text_two{
+	font-size: 2.2rem;
+}
+
+.angle{
+		margin: 300px 50% 100px;
+}	
+
+.advantages_block_van{
+	margin: 20px 0 0 0;
+}
+
+.advantages_block_van img{
+	padding: 30px 0 0 0;
+}
+.advantages_block_van .advantages_line_img{
+	display: block;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.advantages_block_van_header {
+	padding: 20px 0 0 0;
+}
+
+.advantages_block_van_text {
+	display: inline-block;
+	width: 80%;
+}
+
+.moving__to_header {
+	padding: 80px 0 0 0;
+}
+
+.moving{
+	background: #2b4458;
+}
+
+.learn_btn{
+	margin: 0 0 55px 0;	
+}
+
+.moving__time {
+	padding: 30px 10px;
+}
+.learn_btn_two{
+	display: block;
+	margin: 180px auto;
+} 
+
+.feedback_customers h2{
+	margin-top: 80px;
+}
+
+.client_foto img {
+    width: 133px;
+    height: 133px;
+	float: none;
+	margin: auto;
+}
+
+.client_name{
+	padding: 20px 0 20px 0;
+	margin: 0;
+	float: none;
+}
+
+.client_text_wrapper {
+	margin-top: 140px;
+}
+
+.client_text{
+	padding: 10px;
+	margin: auto;
+}
+
+.rights{
+	padding: 38px 0px 5px 0;
+}
+
+.rights:hover{
+	padding: 38px 0px 5px 0;
+	background: none;
+	color: #4AFDFF;
+}
+.advantages_block_van {
+	height: auto;
+}
+.property{
+	height: auto;
+}
+.learn_btn_two {
+	margin: 30px auto 30px;
+} 
+.feedback_customers {
+	padding: 0;
+	margin: 0;
+}
+.politic{
+	display: none;
+}
+.rights{
+	padding: 16px 0 0 0;
+}
+.phone_icon{
+	display: none;
+}
+/* property */
+.satisfied_customers_right_van, 
+.satisfied_customers_right_two,
+.satisfied_customers_center,
+.satisfied_customers_two,
+.satisfied_customers_van {
+	text-align: center !important;
+}
+
+}
+
+@media screen and (max-width: 364px) {
+	.logo{
+		display: inline-block;
+		margin: auto;
+	}
+	.contacts{
+		display: none;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
